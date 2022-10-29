@@ -1,14 +1,14 @@
 /* FONTS OPEN */
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Ultralight.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Ultralight.ttf") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-UltralightItalic.ttf")
+  src: url("src/fonts/SanFranciscoPro/SFP-UltralightItalic.ttf")
     format("truetype");
   font-weight: 100;
   font-style: italic;
@@ -16,71 +16,70 @@
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Thin.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Thin.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-ThinItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-ThinItalic.ttf") format("truetype");
   font-weight: 200;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Light.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-LightItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Regular.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-RegularItalic.ttf")
-    format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-RegularItalic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Medium.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-MediumItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-MediumItalic.ttf") format("truetype");
   font-weight: 500;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Semibold.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-SemiboldItalic.ttf")
+  src: url("src/fonts/SanFranciscoPro/SFP-SemiboldItalic.ttf")
     format("truetype");
   font-weight: 600;
   font-style: italic;
@@ -88,42 +87,42 @@
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Bold.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-BoldItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-BoldItalic.ttf") format("truetype");
   font-weight: 700;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Heavy.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Heavy.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-HeavyItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-HeavyItalic.ttf") format("truetype");
   font-weight: 800;
   font-style: italic;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-Black.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: "SFPro";
-  src: url("/src/fonts/SanFranciscoPro/SFP-BlackItalic.ttf") format("truetype");
+  src: url("src/fonts/SanFranciscoPro/SFP-BlackItalic.ttf") format("truetype");
   font-weight: 900;
   font-style: italic;
 }
