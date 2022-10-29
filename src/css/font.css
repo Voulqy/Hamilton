@@ -1,0 +1,138 @@
+/* FONTS OPEN */
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Ultralight.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-UltralightItalic.ttf")
+    format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Thin.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-ThinItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-LightItalic.ttf")
+    format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-RegularItalic.ttf")
+    format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-MediumItalic.ttf")
+    format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-SemiboldItalic.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Heavy.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-HeavyItalic.ttf")
+    format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SFPro";
+  src: url("/src/fonts/San Francisco Pro/SFP-BlackItalic.ttf")
+    format("truetype");
+  font-weight: 900;
+  font-style: italic;
+}
+/* FONTS CLOSE */
+
+body {
+  font-family: "SFPro";
+}
